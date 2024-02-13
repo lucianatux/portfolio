@@ -13,7 +13,7 @@ export const ProjectCard = ({ title, description, imgUrl, link }) => {
           <a className="arrowlink" href={link} rel="noreferrer" target="_blank">&rarr;</a>
           </button>
         </div>
-        <img src={imgUrl} alt="url" loading="lazy" className="projImg" />
+        <img src={imgUrl} alt="url" className="projImg" />
       </div>
       </div>
     </Col>

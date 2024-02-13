@@ -1,6 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import projAndroid from "../assets/img/projAndroid.png";
-import projLyra from "../assets/img/projLyra.png";
+import projLyra from "../assets/img/projLyra.jpg";
 import projBotonera from "../assets/img/proyBotonera.png";
 import projCalcul from "../assets/img/projCalcul.png";
 import projFrontera from "../assets/img/projFrontera2.png";
